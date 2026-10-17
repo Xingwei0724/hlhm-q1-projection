@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+energy_*.txt
+w1infty_*.txt
+mesh_output.xdmf
+mesh_output.h5
+*.fig
+*.eps
+*.pdf
